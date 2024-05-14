@@ -15,7 +15,8 @@ dependencies:
   fluttertoast: ^8.2.1
   bootpay:
     git:
-      url: https://github.com/woogi-kang/bootpay_flutter.git  carousel_slider: ^4.1.1
+      url: https://github.com/woogi-kang/bootpay_flutter.git
+  carousel_slider: ^4.1.1
   intl: ^0.18.1
   otp: ^3.1.4
   local_auth: ^2.1.8
